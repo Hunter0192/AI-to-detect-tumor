@@ -1,1 +1,1 @@
-# AI Tumor Detection Project 
+# AI Tumor Detection GUI
